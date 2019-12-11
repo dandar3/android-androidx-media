@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-media/tags/1.0.0,androidx-media,d096b6545d1c001a1c1adcd5a33d1f83;https://github.com/dandar3/android-androidx-media;https://github.com/dandar3/android-androidx-media;branches;tags;trunk;true;0b8172dc-8240-9975-b0b0-ce57b7db7bff;https://github.com/dandar3/android-androidx-media;;false;;;0"/>
+</provider>
+</psf>
